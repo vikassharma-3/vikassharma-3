@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mykeyvikas@gmail.com**
 
-- 📄 Know about my experiences [https://vikassharma-3.github.io/resume](https://vikassharma-3.github.io/resume)
+- 📄 Know about my experiences [vikassharma-3.github.io/resume](https://vikassharma-3.github.io/resume)
 
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
