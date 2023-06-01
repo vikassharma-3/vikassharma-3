@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://vikassharma-3.github.io/resume](https://vikassharma-3.github.io/resume)
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
