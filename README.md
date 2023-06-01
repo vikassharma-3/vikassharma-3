@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **AppSec and DevSecOps**
 
-- 👨‍💻 All of my projects are available at [vikassharma-3.github.io](vikassharma-3.github.io)
+- 👨‍💻 All of my projects are available at [vikassharma-3.github.io](https://vikassharma-3.github.io)
 
-- 📝 I regularly write articles on [psychovik.medium.com](psychovik.medium.com)
+- 📝 I regularly write articles on [psychovik.medium.com](https://psychovik.medium.com)
 
 - 💬 Ask me about **CyberSecurity, DevSecOps,AppSec**
 
