@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [vikassharma-3.github.io](vikassharma-3.github.io)
 
-- 📝 I regularly write articles on [psychovik.medium.com](psychovik.medium.com)
+- 📝 I regularly write articles on <a href = "[psychovik.medium.com]" />(psychovik.medium.com)
 
 - 💬 Ask me about **CyberSecurity, DevSecOps,AppSec**
 
