@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vikassharma_03" target="blank"><img src="https://img.shields.io/twitter/follow/vikassharma_03?logo=twitter&style=for-the-badge" alt="vikassharma_03" /></a> </p>
 
-- 🔭 I’m currently working on **OS (Android Kernel)Security**
+- 🔭 I’m currently working in **IBM Canada** as a DevSecOps Engineer
+- 
+- 🔭 I’m currently working on **DevSecOps and Cloud Security**
 
 - 🌱 I’m currently learning **AppSec and DevSecOps**
 
@@ -15,7 +17,7 @@
 
 - 📝 I regularly write articles on [psychovik.medium.com](https://psychovik.medium.com)
 
-- 💬 Ask me about **CyberSecurity, DevSecOps,AppSec**
+- 💬 Ask me about **CyberSecurity, DevSecOps,AppSec, Cloud**
 
 - 📫 How to reach me **mykeyvikas@gmail.com**
 
